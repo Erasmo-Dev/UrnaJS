@@ -1,0 +1,50 @@
+* {
+    text-align: center;
+  }
+
+
+   p{
+    font-size: 40px;
+  }
+
+
+  button {
+    height: 100px;
+    font-size: 200%;
+    margin: 10px;
+
+  }
+
+  body {
+    border-style: solid;
+    height: 100%;
+    border-color: grey;
+  }
+
+  .ajuste {
+    margin-top: 130px;
+  }
+
+  .informacao {
+    margin-top: 120px;
+    border-style: solid;
+    color: white;
+    height: 600px;
+    border-color: grey;
+    width: 700px;
+  }
+
+  .informacao > p {
+    color: black;
+    font-size: 60px;
+    font: times;
+  }
+
+  .resultado {
+    margin: 10px;
+    margin-top: 100px;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-left: 1200px;
+  }
